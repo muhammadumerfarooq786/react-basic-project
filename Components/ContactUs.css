@@ -1,0 +1,35 @@
+.background-pic{
+  background: url("../images/img-home.jpg") center center/cover no-repeat;
+  object-fit: contain;
+}
+.head{
+  padding: 50px 0px 50px 0px;
+
+}
+
+body {
+  font-family: "Montserrat";
+}
+h1{
+  font-size: 3.5rem;
+  color: white;
+}
+p{
+  color: white;
+}
+.ContactUsForm{
+  padding: 50px 0px 50px 0px;
+  margin: 20px;
+}
+
+.ErrorMessage{
+
+  padding: 12px 0px 10px 0px;
+  margin: 12px;
+  background-color: #f6f6f6;
+
+}
+
+h5{
+  color: red;
+}

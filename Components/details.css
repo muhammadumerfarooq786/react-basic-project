@@ -1,0 +1,30 @@
+
+.heading {
+  font-family: "Montserrat-Black";
+  font-size: 2.0rem;
+  line-height: 1.0;
+
+  padding: 200px 0px 0px;
+  right: 10%;
+}
+
+.image {
+
+  left: 5%;
+  margin: 50px;
+  width: 500px;
+  height:500px;
+}
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+h1{
+  padding: 50px 0px 0px;
+}
+
+h4{
+  font-family: "Montserrat-Bold";
+}
